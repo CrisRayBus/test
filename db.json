@@ -1,0 +1,130 @@
+{
+    "clientes":[
+        {
+            "id": "1",
+            "nombre": "HECTOR JUAN VALENCIA CARHUMACA",
+            "dni": "40185464",
+            "telefono": "998844825",
+            "correo": "warivilcajh@hotmail.com"
+        },
+        {
+            "id": "2",
+            "nombre": "MIGUEL TRAVERSO POZO",
+            "dni": "19919003",
+            "telefono": "064-244957",
+            "correo": "essc_sa@hotmail.com"
+        },
+        {
+            "id": "3",
+            "nombre": "TOMAS BASILIO ESPINOZA HUAMAN",
+            "dni": "20101846",
+            "telefono": "064-248621",
+            "correo": "grifoesevirhyo@gmail.com"
+        },
+        {
+            "id": "4",
+            "nombre": "DONATO GIL PIÑAS CANCHAYA",
+            "dni": "19841489",
+            "telefono": "964-056956",
+            "correo": "grifoa@hotmail.com"
+        },
+        {
+            "id": "6",
+            "nombre": "DONATO GIL PIÑAS CANCHANYA",
+            "dni": "19841489",
+            "telefono": "964-056956",
+            "correo": "grifoa@hotmail.com"
+        },
+        {
+            "id": "7",
+            "nombre": "PEPE JUAN CHUQUILLANQUI ALIAGA",
+            "dni": "19864891",
+            "telefono": "964699419",
+            "correo": "grifolaya@hotmail.com"
+        },
+        {
+            "id": "8",
+            "nombre": "PEPE JUAN CHUQUILLANQUI ALIAGA",
+            "dni": "19864891",
+            "telefono": "964699419",
+            "correo": "grifolaya@hotmail.com"
+        },
+        {
+            "id": "9",
+            "nombre": "PEPE JUAN CHUQUILLANQUI ALIAGA",
+            "dni": "19864891",
+            "telefono": "964699419",
+            "correo": "grifolaya@hotmail.com"
+        },
+        {
+            "id": "10",
+            "nombre": "DONATA ALVINA BALVIN DE MOLINA",
+            "dni": "19847005",
+            "telefono": "064-432091",
+            "correo": "petrom_@hotmail.com"
+        },
+        {
+            "id": "11",
+            "nombre": "DONATA ALVINA BALVIN DE MOLINA",
+            "dni": "19847005",
+            "telefono": "064-432091",
+            "correo": "petrom_operaciones@hotmail.com"
+        },
+        {
+            "id": "12",
+            "nombre": "FELIX MOLINA HUAMAN",
+            "dni": "19877001",
+            "telefono": "995910840",
+            "correo": "grifopilcomayo@hotmail.com"
+        },
+        {
+            "id": "13",
+            "nombre": "CARLOS RAUL MOLINA BALVIN",
+            "dni": "20087977",
+            "telefono": "064-221340",
+            "correo": "petrom_operaciones@hotmail.com"
+        },
+        {
+            "id": "14",
+            "nombre": "MONICA PAOLA TOSCANO ALIAGA",
+            "dni": "40640299",
+            "telefono": "064-249737",
+            "correo": "inversionesmonica@hotmail.com"
+        },
+        {
+            "id": "15",
+            "nombre": "CIRO LUIS LAZO MEZA",
+            "dni": "19912396",
+            "telefono": "064-252187",
+            "correo": "vjamespaucar@gmail.com"
+        },
+        {
+            "id": "16",
+            "nombre": "PEDRO MAXIMO ARROYO ALIAGA",
+            "dni": "19814941",
+            "telefono": "964346126",
+            "correo": "sugasac@hotmail.com"
+        },
+        {
+            "id": "17",
+            "nombre": "ERNESTO PEDRO ARROYO VERGARA",
+            "dni": "40007501",
+            "telefono": "964346111",
+            "correo": "sugasac@hotmail.com"
+        },
+        {
+            "id": "18",
+            "nombre": "RODOLFO FRANCISCO ARROYO ALIAGA",
+            "dni": "19808650",
+            "telefono": " 970161342",
+            "correo": "aglom.uno@gmail.com"
+        },
+        {
+            "id": "19",
+            "nombre": "PEDRO MAXIMO ARROYO ALIAGA",
+            "dni": "19814941",
+            "telefono": "964346111",
+            "correo": "sugasac@hotmail.com"
+        }
+    ]
+}
